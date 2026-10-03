@@ -20,6 +20,14 @@ export const categories: Category[] = [
 // सबसे नई खबर सबसे ऊपर रखें
 export const articles: Article[] = [
   {
+    slug: "meri-nayi-khabar",
+    title: "खबर का शीर्षक",
+    summary: "दो लाइन का सार",
+    content: "पूरी खबर यहाँ लिखो।",
+    category: "bharat",
+    date: "4 अक्टूबर 2026",
+  },
+  {
     slug: "genz-news-pehli-khabar",
     title: "GenZ News की पहली खबर: वेबसाइट अब लाइव",
     summary: "हमारी नई न्यूज़ वेबसाइट अब पूरी तरह तैयार है।",
