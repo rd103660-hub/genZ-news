@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import Header from "../../components/Header";
+import Thumb from "../../components/Thumb";
 import { articles, categoryName } from "../../../lib/data";
 
 export default async function ArticlePage({
@@ -24,7 +25,14 @@ export default async function ArticlePage({
         </Link>
         <h1 className="mt-1 text-2xl font-bold leading-snug md:text-4xl">{article.title}</h1>
         <p className="mt-2 text-sm text-gray-500">{article.date}</p>
-        <div className="my-4 h-48 rounded-lg bg-gradient-to-br from-red-500 to-orange-400 md:h-72" />
+        <div className="my-4">
+          <Thumb
+            src={article.image}
+            alt={article.title}
+            className="h-48 rounded-lg md:h-72"
+            fallback="bg-gradient-to-br from-red-500 to-orange-400"
+          />
+        </div>
         <p className="text-lg font-medium text-gray-700">{article.summary}</p>
         <div className="mt-4 whitespace-pre-line text-lg leading-8">{article.content}</div>
         {related.length > 0 && (

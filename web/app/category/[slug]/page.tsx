@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import Header from "../../components/Header";
+import Thumb from "../../components/Thumb";
 import { articles, categories } from "../../../lib/data";
 
 export default async function CategoryPage({
@@ -22,7 +23,7 @@ export default async function CategoryPage({
         <div className="grid gap-5 md:grid-cols-3">
           {list.map((s) => (
             <Link key={s.slug} href={`/article/${s.slug}`} className="rounded-lg border p-3">
-              <div className="h-32 rounded bg-gradient-to-br from-gray-300 to-gray-200" />
+              <Thumb src={s.image} alt={s.title} className="h-32 rounded" />
               <h2 className="mt-2 font-semibold leading-snug">{s.title}</h2>
               <p className="mt-1 text-sm text-gray-600">{s.summary}</p>
             </Link>

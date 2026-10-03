@@ -6,6 +6,7 @@ export type Article = {
   content: string;
   category: string;
   date: string;
+  image?: string;
 };
 
 export const categories: Category[] = [
