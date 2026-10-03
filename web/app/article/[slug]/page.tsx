@@ -1,3 +1,4 @@
+import Footer from "../../components/Footer";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import Header from "../../components/Header";
@@ -48,7 +49,7 @@ export default async function ArticlePage({
           </section>
         )}
       </main>
-      <footer className="bg-gray-900 py-6 text-center text-sm text-gray-400">© 2026 GenZ News</footer>
+      <Footer />
     </div>
   );
 }

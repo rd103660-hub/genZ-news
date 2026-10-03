@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import Link from "next/link";
 import Header from "./components/Header";
 import Thumb from "./components/Thumb";
@@ -36,7 +37,7 @@ export default function Home() {
           ))}
         </div>
       </main>
-      <footer className="bg-gray-900 py-6 text-center text-sm text-gray-400">© 2026 GenZ News</footer>
+      <Footer />
     </div>
   );
 }
