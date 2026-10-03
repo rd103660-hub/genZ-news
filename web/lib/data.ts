@@ -28,7 +28,7 @@ export const articles: Article[] = [
     category: "bharat",
     date: "3 अक्टूबर 2026",
     image: "/pehli-khabar.jpg",
-  },.
+  },
 . 
   {
     slug: "mausam-alert",
