@@ -29,7 +29,6 @@ export const articles: Article[] = [
     date: "3 अक्टूबर 2026",
     image: "/pehli-khabar.jpg",
   },
-. 
   {
     slug: "mausam-alert",
     title: "मौसम विभाग ने कई राज्यों के लिए जारी किया अलर्ट",
