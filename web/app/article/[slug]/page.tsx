@@ -53,3 +53,9 @@ export default async function ArticlePage({
     </div>
   );
 }
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return articles.map((a) => ({ slug: a.slug }));
+}

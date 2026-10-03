@@ -35,3 +35,9 @@ export default async function CategoryPage({
     </div>
   );
 }
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return categories.map((c) => ({ slug: c.slug }));
+}
