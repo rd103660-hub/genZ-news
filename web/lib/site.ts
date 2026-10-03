@@ -1,2 +1,2 @@
 export const SITE_NAME = "GenZ News";
-export const SITE_EMAIL = "apna-email@gmail.com";
+export const SITE_EMAIL = "gaurav07kumar0707@gmail.com";
