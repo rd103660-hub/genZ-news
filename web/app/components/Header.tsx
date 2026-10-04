@@ -5,7 +5,11 @@ export default function Header() {
   return (
     <header className="bg-red-600 text-white">
       <div className="mx-auto max-w-6xl px-4 py-3">
-        <Link href="/" className="text-2xl font-extrabold tracking-tight">GenZ News</Link>
+        <Link href="/" className="flex items-center gap-2 text-2xl font-extrabold tracking-tight">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/logo.png" alt="GenZ News logo" className="h-9 w-9 rounded-md object-contain" />
+          <span>GenZ News</span>
+        </Link>
       </div>
       <nav className="overflow-x-auto bg-red-700">
         <ul className="mx-auto flex max-w-6xl gap-5 whitespace-nowrap px-4 py-2 text-sm font-medium">
