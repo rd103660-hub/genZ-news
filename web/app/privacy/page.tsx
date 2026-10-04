@@ -2,7 +2,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { SITE_NAME, SITE_EMAIL } from "../../lib/site";
 
-export const metadata = { title: `गोपनीयता नीति | ${SITE_NAME}` };
+export const metadata = { title: `गोपनीयता नीति` };
 
 export default function Privacy() {
   return (
