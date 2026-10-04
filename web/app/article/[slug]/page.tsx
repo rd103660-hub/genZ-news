@@ -34,7 +34,7 @@ function toIsoDate(d: string): string | undefined {
   const month = MONTHS[parts[1]];
   const year = parts[2];
   if (!month || !/^\d{1,2}$/.test(day) || !/^\d{4}$/.test(year)) return undefined;
-  return `${year}-${month}-${day.padStart(2, "0")}`;
+  return `${year}-${month}-${day.padStart(2, "0")}T00:00:00+05:30`;
 }
 
 export async function generateMetadata({
