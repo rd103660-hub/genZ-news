@@ -7,6 +7,7 @@ import Thumb from "../../components/Thumb";
 import { articles, categoryName } from "../../../lib/data";
 
 const SITE = "https://genznewshindi.in";
+const AUTHOR = "Gaurav kumar";
 
 const MONTHS: Record<string, string> = {
   "जनवरी": "01",
@@ -50,6 +51,7 @@ export async function generateMetadata({
   return {
     title: article.title,
     description: article.summary,
+    authors: [{ name: AUTHOR, url: `${SITE}/about/` }],
     alternates: { canonical: url },
     openGraph: {
       type: "article",
@@ -92,7 +94,7 @@ export default async function ArticlePage({
     ...(iso ? { datePublished: iso, dateModified: iso } : {}),
     inLanguage: "hi-IN",
     mainEntityOfPage: `${SITE}/article/${article.slug}/`,
-    author: { "@type": "Organization", name: "GenZ News", url: SITE },
+    author: { "@type": "Person", name: AUTHOR, url: `${SITE}/about/` },
     publisher: {
       "@type": "Organization",
       name: "GenZ News",
@@ -114,7 +116,12 @@ export default async function ArticlePage({
           {categoryName(article.category)}
         </Link>
         <h1 className="mt-1 text-2xl font-bold leading-snug md:text-4xl">{article.title}</h1>
-        <p className="mt-2 text-sm text-gray-500">{article.date}</p>
+        <p className="mt-2 text-sm text-gray-500">
+          {article.date} · लेखक:{" "}
+          <Link href="/about" className="font-semibold hover:underline">
+            {AUTHOR}
+          </Link>
+        </p>
         <div className="my-4">
           <Thumb
             src={article.image}
