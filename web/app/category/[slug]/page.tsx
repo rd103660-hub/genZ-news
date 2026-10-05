@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Footer from "../../components/Footer";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -40,4 +41,30 @@ export const dynamicParams = false;
 
 export function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }));
+}
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const category = categories.find((c) => c.slug === slug);
+  if (!category) return {};
+  const title = `${category.name} की ताज़ा खबरें`;
+  const description = `${category.name} से जुड़ी ताज़ा हिंदी खबरें GenZ News पर पढ़ें।`;
+  const url = `/category/${category.slug}/`;
+  return {
+    title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      type: "website",
+      url,
+      title,
+      description,
+      locale: "hi_IN",
+      siteName: "GenZ News",
+      images: ["/logo.png"],
+    },
+  };
 }
