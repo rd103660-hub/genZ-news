@@ -28,8 +28,6 @@ export const articles: Article[] = [
     category: "business",
     date: "5 अक्टूबर 2026",
     image: "/gold-5oct26.jpg",
-    imageCredit: "AI Generated Image",
-    isAiGenerated: true
   },
   {
     slug: "sitapur-baadh-teen-maut-gandak-tatbandh",
