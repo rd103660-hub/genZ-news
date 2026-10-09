@@ -15,6 +15,7 @@ export const categories: Category[] = [
   { slug: "tech", name: "टेक" },
   { slug: "manoranjan", name: "मनोरंजन" },
   { slug: "business", name: "बिज़नेस" },
+  { slug: "lifestyle", name: "लाइफस्टाइल" },
   { slug: "duniya", name: "दुनिया" },
 ];
 
