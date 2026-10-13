@@ -7,8 +7,9 @@ const AUTHOR = "Gaurav Kumar";
 export const metadata = {
   title: "हमारे बारे में",
   description: "GenZ News के बारे में, लेखक की जानकारी और अस्वीकरण (Disclaimer)।",
-};
   alternates: { canonical: "/about/" },
+};
+
 
 export default function About() {
   return (
