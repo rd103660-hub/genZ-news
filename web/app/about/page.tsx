@@ -9,6 +9,7 @@ export const metadata = {
   description: "GenZ News के बारे में, लेखक की जानकारी और अस्वीकरण (Disclaimer)।",
 };
   alternates: { canonical: "/about/" },
+
 export default function About() {
   return (
     <div className="min-h-screen bg-white text-gray-900">
