@@ -2,7 +2,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { SITE_NAME, SITE_EMAIL } from "../../lib/site";
 
-export const metadata = { title: `संपर्क करें` };
+export const metadata = { title: `संपर्क करें`, alternates: { canonical: "/contact/" } };
 
 export default function Contact() {
   return (
