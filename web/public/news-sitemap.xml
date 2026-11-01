@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-
+  <!-- 1 November 2026 Article -->
+  <url>
+    <loc>https://genznewshindi.in/article/ramlila-maidan-keechad-loktantra-rally-1-november</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-01T10:00:00+05:30</news:publication_date>
+      <news:title>रामलीला की कीचड़ में खड़ा लोकतंत्र : जब एक मैदान ने दिल्ली की सियासत का रुख मोड़ दिया</news:title>
+    </news:news>
+  </url>
+        
   <!-- 31 October 2026 Articles -->
   <url>
     <loc>https://genznewshindi.in/article/kushinagar-nagendra-sahni-pravadhan-kisan</loc>
