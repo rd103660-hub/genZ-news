@@ -1,6 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <!-- 2 November 2026 Articles -->
+  <url>
+    <loc>https://genznewshindi.in/article/king-tu-mil-jaye-shahrukh-deepika-pehla-gana</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
+      <news:title>61वें जन्मदिन की आधी रात को शाहरुख ने खोल दिया 'किंग' का पहला दरवाजा , दीपिका के साथ 'तू मिल जाए' में रोमांस भी है और बदले की आग भी</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/nz-odi-rachin-chapman-bahar-nicholls-fisher</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
+      <news:title>ऑकलैंड से पहले ही टूट गई कीवी उम्मीद रचिन और चैपमैन के बिना उतरेगी न्यूजीलैंड , अब निकोल्स फिशर पर दारोमदार</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/binance-6-3-billion-chori-wapsi-withdrawal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
+      <news:title>$6.3 बिलियन की चोरी , 2 दिन का सन्नाटा और फिर वापसी Binance फिर से ऑनलाइन , 95% पैसा कवर , आउटफ्लो हुआ स्थिर</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/foxconn-openai-nayi-deal-ai-bubble-nahi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
+      <news:title>ताइपे में हाथ मिला , बाजार में हंगामा खत्म फॉक्सकॉन और OpenAI की नई डील , AI बबल की अफवाह को चेयरमैन ने कहा नहीं</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/hamilton-india-400-chhakke-world-record-t20</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
+      <news:title>हैमिल्टन की शाम , एक टॉप एज और 400 छक्कों का तूफान जब हारकर भी इतिहास जीत गई टीम इंडिया</news:title>
+    </news:news>
+  </url>
+        
   <!-- 1 November 2026 Article -->
   <url>
     <loc>https://genznewshindi.in/article/ramlila-maidan-keechad-loktantra-rally-1-november</loc>
@@ -132,103 +193,6 @@
       </news:publication>
       <news:publication_date>2026-10-31T10:00:00+05:30</news:publication_date>
       <news:title>इंदिरा गांधी की 42वीं पुण्यतिथि: शांति स्थल पर श्रद्धांजलि</news:title>
-    </news:news>
-  </url>
-
-  <!-- 30 October 2026 Articles -->
-  <url>
-    <loc>https://genznewshindi.in/article/dubai-employee-lamborghini-urus-gift-natalia</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:00:00+05:30</news:publication_date>
-      <news:title>दुबई की कंपनी मालिक ने टॉप एम्प्लॉई को गिफ्ट की लेम्बोर्गिनी</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/dantewada-laal-aatank-khatam-chakravat-arnab</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:00:00+05:30</news:publication_date>
-      <news:title>दंतेवाड़ा में लाल आतंक का सफाया: 36 नक्सलियों का सरेंडर</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/bhutan-jheel-bengal-assam-alert</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:00:00+05:30</news:publication_date>
-      <news:title>भूटान में ग्लेशियर झील फटने का खतरा: असम और बंगाल में अलर्ट</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/uttarakhand-madrasa-board-khatam-naya-pradhikaran</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:00:00+05:30</news:publication_date>
-      <news:title>उत्तराखंड में मदरसा बोर्ड खत्म, नया प्राधिकरण संभालेगा व्यवस्था</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/rohini-acharya-rj-pk-formula-vidhan-parishad</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:00:00+05:30</news:publication_date>
-      <news:title>रोहिणी आचार्य ने RJD-PK फॉर्मूले पर साधा निशाना</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/delhi-ramlila-dowali-divali-vyapar-26-hazar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:00:00+05:30</news:publication_date>
-      <news:title>दिल्ली में दिवाली पर बंपर कारोबार: 26 हजार करोड़ का व्यापार</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/patna-sahib-350-prakash-parv-tent-city-drone-show</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:00:00+05:30</news:publication_date>
-      <news:title>पटना साहिब में 350वें प्रकाश पर्व की तैयारी: टेंट सिटी और ड्रोन शो</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/isro-nisar-gslv-f16-navratri-aaj-raat-launch</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-30T10:00:00+05:30</news:publication_date>
-      <news:title>ISRO का नया मिशन: GSLV-F16 से NISAR उपग्रह की लॉन्चिंग</news:title>
     </news:news>
   </url>
 
