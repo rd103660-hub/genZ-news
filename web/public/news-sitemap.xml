@@ -1,6 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <!-- 3 November 2026 Articles -->
+  <url>
+    <loc>https://genznewshindi.in/article/bharat-mandapam-renewable-energy-summit-modi-500-gw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
+      <news:title>भारत मंडपम में खुला ग्रीन एनर्जी का महाकुंभ , मोदी बोले फॉसिल फ्यूल पर भरोसा अब खतरे की घंटी , 500 GW के बाद अब और 500 GW की तैयारी</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/reliance-sensex-1233-kaccha-tel-7-percent-giravat</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
+      <news:title>रिलायंस के एक झटके से हिला बाजार , सेंसेक्स 1,233 चढ़ा और कच्चा तेल 7% गिरा 3 नवंबर की सुबह तक रुकी नहीं तेजी</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/sindhu-lakshya-harmanpreet-hattrick-maxwell-sanyas</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
+      <news:title>एक दिन , तीन मैदान , तीन जीत जर्मनी में सिंधु लक्ष्य का डबल धमाका , जालंधर में हरमनप्रीत की हैट्रिक और मैक्सवेल का " बिग शो " खत्म</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/toofan-mursu-andhra-landfall-ongole</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
+      <news:title>तड़के 3:30 बजे टकराया " मुरसु " , 120 की रफ्तार से हिला आंध्र का तट एक हफ्ते में दूसरा तूफान</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/navy-8-ngc-corvette-53866-crore-deal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
+      <news:title>₹53,866 करोड़ की मेगा डील , 8 नए स्टेल्थ युद्धपोत नौसेना को मिलेगा अपना ही डिजाइन किया हुआ सबसे ताकतवर हथियार</news:title>
+    </news:news>
+  </url>
+        
   <!-- 2 November 2026 Articles -->
   <url>
     <loc>https://genznewshindi.in/article/king-tu-mil-jaye-shahrukh-deepika-pehla-gana</loc>
