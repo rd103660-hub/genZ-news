@@ -1,6 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+ <!-- 4 November 2026 Articles -->
+  <url>
+    <loc>https://genznewshindi.in/article/florida-learjet-crash-natalia-76-second-mayday</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
+      <news:title>आसमान में 76 सेकंड का खौफ , मेडे मेडे चिल्लाती रही 20 साल की को पायलट और फिर फ्लोरिडा की सड़क पर टूटकर बिखर गया जेट</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/sahara-gulabi-patthar-mars-teghaza-001</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
+      <news:title>सहारा में मिला गुलाबी पत्थर निकला मंगल का 4.1 अरब साल पुराना टुकड़ा , NASA बोला यह है लाल ग्रह का सबसे पुराना ज्वालामुखी पत्थर</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/saif-vidya-21-saal-baad-long-years-ago-ritesh-batra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
+      <news:title>परिणीता के 21 साल बाद फिर एक फ्रेम में सैफ और विद्या , 1991 की कहानी लेकर लौटे रितेश बत्रा</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/navy-ajini-20-crew-somali-lutere-48-ghante-operation</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
+      <news:title>3000 किमी दूर समंदर में 48 घंटे का महा ऑपरेशन , अजिनी के 20 क्रू को लुटेरों से छुड़ा लाई नौसेना</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/auckland-odi-rohit-virat-maxwell-sanyas-big-show</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
+      <news:title>ऑकलैंड में रोहित विराट का नया अध्याय शुरू , दूसरी तरफ मैक्सवेल ने कह दिया बिग शो खत्म</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/pune-metro-pink-line-bharat-mandapam-500-gw</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
+      <news:title>पुणे में दौड़ी पिंक लाइन और दिल्ली में गूंजा ग्रीन एनर्जी का नया संकल्प , 500 GW का अगला लक्ष्य</news:title>
+    </news:news>
+  </url>
+        
   <!-- 3 November 2026 Articles -->
   <url>
     <loc>https://genznewshindi.in/article/bharat-mandapam-renewable-energy-summit-modi-500-gw</loc>
@@ -120,19 +193,6 @@
       </news:publication>
       <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
       <news:title>हैमिल्टन की शाम , एक टॉप एज और 400 छक्कों का तूफान जब हारकर भी इतिहास जीत गई टीम इंडिया</news:title>
-    </news:news>
-  </url>
-        
-  <!-- 1 November 2026 Article -->
-  <url>
-    <loc>https://genznewshindi.in/article/ramlila-maidan-keechad-loktantra-rally-1-november</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T10:00:00+05:30</news:publication_date>
-      <news:title>रामलीला की कीचड़ में खड़ा लोकतंत्र : जब एक मैदान ने दिल्ली की सियासत का रुख मोड़ दिया</news:title>
     </news:news>
   </url>
 
