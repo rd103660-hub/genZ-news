@@ -1,6 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <!-- 6 November 2026 Articles -->
+  <url>
+    <loc>https://genznewshindi.in/article/agniveer-seva-2-saal-badhi-cds-ailan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:00:00+05:30</news:publication_date>
+      <news:title>अग्निवीरों के लिए बड़ी खुशखबरी ! CDS का बड़ा ऐलान -- 2 साल बढ़ेगा सेवा का कार्यकाल</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/social-media-safe-harbour-khatam-sarkar-charcha</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:00:00+05:30</news:publication_date>
+      <news:title>Facebook, Insta और X के बुरे दिन शुरू ? भारत सरकार खत्म कर सकती है Legal Immunity , जानें आम यूजर्स पर असर !</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/ronaldo-portugal-sanyas-saat-number-jersey</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:00:00+05:30</news:publication_date>
+      <news:title>सात नंबर की जर्सी अब किसी और के कंधों पर होगी , रोनाल्डो ने पुर्तगाल को कहा आखिरी अलविदा</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/india-japan-4-1-asian-champions-trophy-6th-title</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:00:00+05:30</news:publication_date>
+      <news:title>भारत बना एशिया का किंग! जापान को 4-1 से रौंदकर रिकॉर्ड 6वीं बार जीता Asian Champions Trophy का खिताब</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/nepal-bhutan-yatra-pehchan-patra-anivarya-gazette</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:00:00+05:30</news:publication_date>
+      <news:title>नेपाल और भूटान की सैर से पहले बैग में रख लें ये एक कागज , अब बिना पहचान पत्र के सीमा पार नहीं होगी आसान</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/dhanteras-2026-delhi-sona-1-48-lakh-chandi-tezi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T10:00:00+05:30</news:publication_date>
+      <news:title>धनतेरस की सुबह दिल्ली में सोना फिर चमका , 10 ग्राम का भाव 1,48,800 पर पहुंचा और चांदी ने भी दिखाई तेजी</news:title>
+    </news:news>
+  </url>
+        
  <!-- 4 November 2026 Articles -->
   <url>
     <loc>https://genznewshindi.in/article/florida-learjet-crash-natalia-76-second-mayday</loc>
