@@ -1,6 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <!-- 7 November 2026 Articles -->
+  <url>
+    <loc>https://genznewshindi.in/article/neet-pg-9783-new-seats-nmc-seat-matrix-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:00+05:30</news:publication_date>
+      <news:title>मेडिकल छात्रों के लिए बड़ा सरप्राइज! NMC ने जोड़ीं 9,783 नई PG मेडिकल सीटें, जानें आपके राज्य में कितनी बढ़ीं.</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/nithya-raman-los-angeles-first-indian-american-mayor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:00+05:30</news:publication_date>
+      <news:title>अमेरिका में भारत की बेटी का डंका! केरल में जन्मी नित्या रामन बनीं लॉस एंजिल्स (LA) की पहली भारतीय-अमेरिकी मेयर.</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/ayodhya-10th-deepotsav-noida-yamuna-21000-diya-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:00+05:30</news:publication_date>
+      <news:title>अयोध्या से लेकर नोएडा तक दीपोत्सव का माहौल! 21 हजार दीपों से जगमगाया यमुना तट, जानें क्या है खास.</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/ind-vs-nz-2nd-odi-wellington-rain-pitch-report</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:00+05:30</news:publication_date>
+      <news:title>IND vs NZ 2nd ODI: वेलिंगटन में बारिश बनी विलेन? जानें दूसरे वनडे का पिच और वेदर रिपोर्ट.</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/tata-punch-ev-facelift-baas-6-49-lakh-real-range</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:00+05:30</news:publication_date>
+      <news:title>Maruti और Tata की नींद उड़ी! सिर्फ 6.5 लाख में लॉन्च हुई भारत की सबसे किफायती Family Electric Car, एक बार चार्ज करने पर चलेगी 450km</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/mohammed-shami-test-retirement-64-tests-229-wickets</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:00+05:30</news:publication_date>
+      <news:title>मोहम्मद शमी ने टेस्ट क्रिकेट से लिया संन्यास! 13 साल के रेड-बॉल करियर को कहा 'अलविदा', सोशल मीडिया पर फैंस हुए भावुक</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://genznewshindi.in/article/ai-video-label-rule-deepfake-law-7-november-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>GenZ News Hindi</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T10:00:00+05:30</news:publication_date>
+      <news:title>AI से बना Video बिना Label के डाला तो अब नहीं बचेगा कोई बहाना , 7 नवंबर तक बदल गया पूरा खेल</news:title>
+    </news:news>
+  </url>
+        
   <!-- 6 November 2026 Articles -->
   <url>
     <loc>https://genznewshindi.in/article/agniveer-seva-2-saal-badhi-cds-ailan</loc>
@@ -71,201 +156,6 @@
       </news:publication>
       <news:publication_date>2026-11-06T10:00:00+05:30</news:publication_date>
       <news:title>धनतेरस की सुबह दिल्ली में सोना फिर चमका , 10 ग्राम का भाव 1,48,800 पर पहुंचा और चांदी ने भी दिखाई तेजी</news:title>
-    </news:news>
-  </url>
-        
- <!-- 4 November 2026 Articles -->
-  <url>
-    <loc>https://genznewshindi.in/article/florida-learjet-crash-natalia-76-second-mayday</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
-      <news:title>आसमान में 76 सेकंड का खौफ , मेडे मेडे चिल्लाती रही 20 साल की को पायलट और फिर फ्लोरिडा की सड़क पर टूटकर बिखर गया जेट</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/sahara-gulabi-patthar-mars-teghaza-001</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
-      <news:title>सहारा में मिला गुलाबी पत्थर निकला मंगल का 4.1 अरब साल पुराना टुकड़ा , NASA बोला यह है लाल ग्रह का सबसे पुराना ज्वालामुखी पत्थर</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/saif-vidya-21-saal-baad-long-years-ago-ritesh-batra</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
-      <news:title>परिणीता के 21 साल बाद फिर एक फ्रेम में सैफ और विद्या , 1991 की कहानी लेकर लौटे रितेश बत्रा</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/navy-ajini-20-crew-somali-lutere-48-ghante-operation</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
-      <news:title>3000 किमी दूर समंदर में 48 घंटे का महा ऑपरेशन , अजिनी के 20 क्रू को लुटेरों से छुड़ा लाई नौसेना</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/auckland-odi-rohit-virat-maxwell-sanyas-big-show</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
-      <news:title>ऑकलैंड में रोहित विराट का नया अध्याय शुरू , दूसरी तरफ मैक्सवेल ने कह दिया बिग शो खत्म</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/pune-metro-pink-line-bharat-mandapam-500-gw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T10:00:00+05:30</news:publication_date>
-      <news:title>पुणे में दौड़ी पिंक लाइन और दिल्ली में गूंजा ग्रीन एनर्जी का नया संकल्प , 500 GW का अगला लक्ष्य</news:title>
-    </news:news>
-  </url>
-        
-  <!-- 3 November 2026 Articles -->
-  <url>
-    <loc>https://genznewshindi.in/article/bharat-mandapam-renewable-energy-summit-modi-500-gw</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
-      <news:title>भारत मंडपम में खुला ग्रीन एनर्जी का महाकुंभ , मोदी बोले फॉसिल फ्यूल पर भरोसा अब खतरे की घंटी , 500 GW के बाद अब और 500 GW की तैयारी</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/reliance-sensex-1233-kaccha-tel-7-percent-giravat</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
-      <news:title>रिलायंस के एक झटके से हिला बाजार , सेंसेक्स 1,233 चढ़ा और कच्चा तेल 7% गिरा 3 नवंबर की सुबह तक रुकी नहीं तेजी</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/sindhu-lakshya-harmanpreet-hattrick-maxwell-sanyas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
-      <news:title>एक दिन , तीन मैदान , तीन जीत जर्मनी में सिंधु लक्ष्य का डबल धमाका , जालंधर में हरमनप्रीत की हैट्रिक और मैक्सवेल का " बिग शो " खत्म</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/toofan-mursu-andhra-landfall-ongole</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
-      <news:title>तड़के 3:30 बजे टकराया " मुरसु " , 120 की रफ्तार से हिला आंध्र का तट एक हफ्ते में दूसरा तूफान</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/navy-8-ngc-corvette-53866-crore-deal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T10:00:00+05:30</news:publication_date>
-      <news:title>₹53,866 करोड़ की मेगा डील , 8 नए स्टेल्थ युद्धपोत नौसेना को मिलेगा अपना ही डिजाइन किया हुआ सबसे ताकतवर हथियार</news:title>
-    </news:news>
-  </url>
-        
-  <!-- 2 November 2026 Articles -->
-  <url>
-    <loc>https://genznewshindi.in/article/king-tu-mil-jaye-shahrukh-deepika-pehla-gana</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
-      <news:title>61वें जन्मदिन की आधी रात को शाहरुख ने खोल दिया 'किंग' का पहला दरवाजा , दीपिका के साथ 'तू मिल जाए' में रोमांस भी है और बदले की आग भी</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/nz-odi-rachin-chapman-bahar-nicholls-fisher</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
-      <news:title>ऑकलैंड से पहले ही टूट गई कीवी उम्मीद रचिन और चैपमैन के बिना उतरेगी न्यूजीलैंड , अब निकोल्स फिशर पर दारोमदार</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/binance-6-3-billion-chori-wapsi-withdrawal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
-      <news:title>$6.3 बिलियन की चोरी , 2 दिन का सन्नाटा और फिर वापसी Binance फिर से ऑनलाइन , 95% पैसा कवर , आउटफ्लो हुआ स्थिर</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/foxconn-openai-nayi-deal-ai-bubble-nahi</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
-      <news:title>ताइपे में हाथ मिला , बाजार में हंगामा खत्म फॉक्सकॉन और OpenAI की नई डील , AI बबल की अफवाह को चेयरमैन ने कहा नहीं</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://genznewshindi.in/article/hamilton-india-400-chhakke-world-record-t20</loc>
-    <news:news>
-      <news:publication>
-        <news:name>GenZ News Hindi</news:name>
-        <news:language>hi</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T10:00:00+05:30</news:publication_date>
-      <news:title>हैमिल्टन की शाम , एक टॉप एज और 400 छक्कों का तूफान जब हारकर भी इतिहास जीत गई टीम इंडिया</news:title>
     </news:news>
   </url>
 
